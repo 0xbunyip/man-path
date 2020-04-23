@@ -41,3 +41,17 @@ Therefore, sometimes, you must make a decision instead of letting the whole team
 
 * Be kind, don't be nice. Nice is saying "I'm fine" when you are in a bad mood.
 Kind is telling someone their mistakes instead of keeping silence and letting them fail afterward.
+
+### How to deal with difficult members
+
+* The brilliant jerk: when it happens, you should tell them in public that they should be respectful to everyone.
+You should keep an emotionless response to make sure that it doesn't feel like a personal attack
+
+* No communication: fear sharing his work or report progress; find out the cause of this fear:
+is the culture of the team too harsh on failure?
+
+### Project management rules of thumb
+
+1. You have 10 productive engineering weeks/engineer/quarter (3 non-productive/vacation weeks)
+2. The closer the deadline, the more you should be willing to say no (new tasks, features, meetings, etc)
+3. You should dedicate 20% of projected time to spend on sustaining engineering work (tech debt, testing, etc)
